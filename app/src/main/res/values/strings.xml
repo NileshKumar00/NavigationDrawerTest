@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NavigationDrawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+       <string name="drawer_open">Open drawer</string>
+    <string name="drawer_close">Close drawer</string>
+
+
+    <string name="str_btn_find">Find</string>
+    <string name="hnt_et_radius">Enter Radius in Kms</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
